@@ -1,4 +1,14 @@
-## Hi there 👋
+### 👋 Hi there, I'm Ángel de la Cruz
+
+## API Developer Trainee at SPS 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angeldelacruz-blue)](https://www.linkedin.com/in/angel-delacruz/)
+[![Mail](https://img.shields.io/badge/Mail-acruzo@spsolutions.com.mx-red)](mailto:acruzo@spsolutions.com.mx)
+
+I'm a Final-year Software Engineering student at Universidad Veracruzana with over a year of professional experience in designing, developing, and testing distributed systems, REST APIs, and web applications, with a strong passion for automation and process optimization. Currently exploring CI/CD and cloud technologies.
+* 💻 Currently working at **SPS**
+* 📖 I love to constantly **learn new things**
+* 🧠 Learning **Jenkins** and **Docker**
 
 <!--
 **acruzosps/acruzosps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
